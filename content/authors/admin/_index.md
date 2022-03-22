@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Basel
+    url: https://wwz.unibas.ch/en/persons/beaumont-schoeman-1/
 education:
   courses:
     - course: PhD in Economics
