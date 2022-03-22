@@ -5,7 +5,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Mobility
-  - Environmental
+  - Environment
   - Development
 social:
   - icon: envelope
