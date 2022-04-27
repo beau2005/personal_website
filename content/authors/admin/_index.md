@@ -1,8 +1,6 @@
 ---
-title: Beaumont Schoeman
 role: Economist
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include mobility, the environment, and development.
 interests:
   - Mobility
   - Environment
@@ -17,9 +15,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=-Z9LLyQAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: University of Basel
     url: https://wwz.unibas.ch/en/persons/beaumont-schoeman-1/
@@ -37,10 +32,11 @@ education:
     - course: BA in German
       institution: University of Auckland
       year: 2011
-email: ""
 superuser: true
 highlight_name: true
+title: Beaumont Schoeman
+email: ""
 ---
-I am an economist specialising in mobility, environmental, and development economics. I use state of the art econometric and machine learning approaches to uncover causal effects of interventions.
+I am an economist specialising in mobility, environmental, and development economics. I use state of the art experimental, econometric, and machine learning techniques to uncover causal effects of interventions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
