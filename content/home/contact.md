@@ -8,7 +8,7 @@ subtitle: null
 active: true
 autolink: true
 content:
- address:
+  address:
     street: Peter Merian-Weg 6
     city: Basel
     postcode: '4002'
