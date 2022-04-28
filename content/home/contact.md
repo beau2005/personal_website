@@ -19,11 +19,9 @@ content:
     longitude: '7.59660'
   form:
     provider: netlify
-    formspree:
-      ? id
     netlify:
-      captcha: false
+      captcha: true
   
 design:
-  columns: "2"
+  columns: "1"
 ---
