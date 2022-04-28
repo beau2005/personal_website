@@ -23,5 +23,5 @@ content:
       captcha: true
   
 design:
-  columns: "1"
+  columns: "2"
 ---
