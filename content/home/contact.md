@@ -7,15 +7,7 @@ title: Contact
 subtitle: null
 active: true
 content:
-  form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false
-  autolink: true
-  email: beaumont.schoeman@unibas.ch
-  address:
+ address:
     street: Peter Merian-Weg 6
     city: Basel
     postcode: '4002'
@@ -24,6 +16,15 @@ content:
   coordinates:
     latitude: '47.5454'
     longitude: '7.59660'
+  form:
+    provider: netlify
+    formspree:
+      ? id
+    netlify:
+      captcha: false
+  autolink: true
+  # email: beaumont.schoeman@unibas.ch
+  
 design:
   columns: "2"
 ---
