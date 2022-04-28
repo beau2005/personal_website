@@ -23,7 +23,6 @@ content:
       ? id
     netlify:
       captcha: false
-  # email: beaumont.schoeman@unibas.ch
   
 design:
   columns: "2"
