@@ -6,6 +6,7 @@ weight: 60
 title: Contact
 subtitle: null
 active: true
+autolink: true
 content:
  address:
     street: Peter Merian-Weg 6
@@ -22,7 +23,6 @@ content:
       ? id
     netlify:
       captcha: false
-  autolink: true
   # email: beaumont.schoeman@unibas.ch
   
 design:
