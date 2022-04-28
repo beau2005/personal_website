@@ -6,7 +6,6 @@ weight: 130
 title: Contact
 subtitle: null
 active: true
-autolink: true
 content:
   address:
     street: Peter Merian-Weg 6
@@ -21,7 +20,9 @@ content:
     provider: netlify
     netlify:
       captcha: true
-  
+
+autolink: true
+
 design:
   columns: "2"
 ---
