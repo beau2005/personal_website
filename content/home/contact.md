@@ -1,11 +1,10 @@
 ---
 widget: contact
 widget_id: contact
-headless: true
 weight: 130
 title: Contact
 subtitle: null
-active: true
+active: false
 content:
   form:
     provider: netlify
@@ -40,6 +39,7 @@ content:
     latitude: "37.4275"
     longitude: "-122.1697"
   email: test@example.org
+headless: true
 design:
   columns: "2"
 ---
