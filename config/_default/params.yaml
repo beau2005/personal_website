@@ -64,7 +64,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
@@ -106,3 +106,18 @@ extensions:
     enable: true
   academicons:
     enable: true
+    
+# Contact (edit or remove options as required)
+
+  email: beaumont.schoeman@unibas.ch
+ # phone: 
+  address:
+    street: Peter Merian-Weg 6
+    city: Basel
+    postcode: '4002'
+    country: Switzerland
+    country_code: CH
+  coordinates:
+    latitude: '47.5454'
+    longitude: '7.59660'
+ 
