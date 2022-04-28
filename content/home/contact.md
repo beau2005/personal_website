@@ -1,7 +1,8 @@
 ---
 widget: contact
 widget_id: contact
-weight: 130
+headless: true
+weight: 60
 title: Contact
 subtitle: null
 active: true
@@ -23,7 +24,6 @@ content:
   coordinates:
     latitude: '47.5454'
     longitude: '7.59660'
-headless: true
 design:
   columns: "2"
 ---
