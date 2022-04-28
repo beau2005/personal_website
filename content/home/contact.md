@@ -4,7 +4,7 @@ widget_id: contact
 weight: 130
 title: Contact
 subtitle: null
-active: false
+active: true
 content:
   form:
     provider: netlify
@@ -13,32 +13,16 @@ content:
     netlify:
       captcha: false
   autolink: true
-  office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  email: beaumont.schoeman@unibas.ch
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
-    country: United States
-    country_code: US
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
+    street: Peter Merian-Weg 6
+    city: Basel
+    postcode: '4002'
+    country: Switzerland
+    country_code: CH
   coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+    latitude: '47.5454'
+    longitude: '7.59660'
 headless: true
 design:
   columns: "2"
