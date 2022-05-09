@@ -41,7 +41,7 @@ publication: "*WWZ Working Paper 2021/10*"
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: We study the effect of the COVID-19 pandemic and the associated government measures on individual mobility choices in Switzerland. Our data is based on over 1,000 people for which we observe all trips during eight weeks before the pandemic and again for up to 6 months after its onset. We find an overall reduction of travel distances by 60 percent, followed by a gradual recovery during the subsequent reopening of the economy. Whereas driving distances have almost completely recovered, public transport remains under-used. The introduction of a requirement to wear a mask in public transport had no measurable impact on ridership. We study the heterogeneity of the individual travel response to the pandemic and find that it varies along socio-economic dimensions such as education and household size, with mobility tool ownership, and with personal values and lifestyles.
+summary: Foo
 
 tags: []
 
