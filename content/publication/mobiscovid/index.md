@@ -69,6 +69,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: true
+  height: 300px
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
