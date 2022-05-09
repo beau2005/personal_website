@@ -39,4 +39,4 @@ email: ""
 ---
 I am an economist specialising in mobility, environmental, and development economics. I use state of the art experimental, econometric, and machine learning techniques to uncover causal effects of interventions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_schoeman.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/schoeman_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
