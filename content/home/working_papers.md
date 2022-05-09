@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: Working Paper
+    publication_type: 3
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
