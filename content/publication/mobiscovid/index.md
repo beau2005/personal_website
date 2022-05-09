@@ -1,5 +1,5 @@
 ---
-title: "Fast Fashion or Clean Clothes? Estimating the Value of Labor Standards"
+title: "The impact of COVID-19 on mobility choices in Switzerland"
 date: 2021-09-15
 publishDate: 2021-09-15T20:00:00.00Z
 authors: ["Beaumont Schoeman", "Beat Hintermann", "Joseph Molloy", "Thomas Schatzmann", "Christopher Tchervenkov", "Kay W. Axhausen"]
