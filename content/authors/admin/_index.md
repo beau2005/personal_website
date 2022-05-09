@@ -1,6 +1,6 @@
 ---
 role: Economist
-bio: My research interests include mobility, the environment, and development.
+# bio: My research interests include mobility, the environment, and development.
 interests:
   - Mobility
   - Environment
