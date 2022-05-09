@@ -33,7 +33,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  columns: "1"
+  columns: "3"
 # design:
   # Choose a view for the listings:
   # view: citation
