@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "1"
+    publication_type: "2"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
@@ -32,8 +32,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
-  columns: "2"
+  view: 2
+  columns: 2
 # design:
   # Choose a view for the listings:
   # view: citation
