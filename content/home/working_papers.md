@@ -32,7 +32,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
+  columns: "2"
 # design:
   # Choose a view for the listings:
   # view: citation
