@@ -15,9 +15,9 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*WWZ Working Paper 2021/11*"
+publication: "*Transport Policy*"
 featured: true
-date: 2021-09-30
+date: 2021-04-01
 url_slides: ""
 title: Observed impacts of the Covid-19 first wave on travel behaviour in Switzerland based on a large GPS panel
 tags: []
