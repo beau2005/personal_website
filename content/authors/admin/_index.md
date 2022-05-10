@@ -21,16 +21,16 @@ organizations:
 education:
   courses:
     - course: PhD in Economics
-      institution: University of Basel
+      institution: University of Basel, Switzerland
       year: 2021
     - course: MSc in Economics and Politics
-      institution: University of Freiburg
+      institution: University of Freiburg, Germany
       year: 2013
     - course: BCom in Economics and Finance
-      institution: University of Auckland
+      institution: University of Auckland, New Zealand
       year: 2011
     - course: BA in German
-      institution: University of Auckland
+      institution: University of Auckland, New Zealand
       year: 2011
 superuser: true
 highlight_name: true
