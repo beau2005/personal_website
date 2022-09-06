@@ -25,7 +25,7 @@ education:
       year: 2021
     - course: MSc in Economics and Politics
       institution: University of Freiburg, Germany
-      year: 2013
+      year: 2014
     - course: BCom in Economics and Finance
       institution: University of Auckland, New Zealand
       year: 2011
