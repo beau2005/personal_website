@@ -21,7 +21,7 @@ publication: "*Transportation*"
 featured: true
 date: 2022-06-21
 url_slides: ""
-title: The MOBIS dataset\: a large GPS dataset of mobility behaviour in Switzerland
+title: The MOBIS dataset\\: a large GPS dataset of mobility behaviour in Switzerland
 tags: []
 image:
   preview_only: true
