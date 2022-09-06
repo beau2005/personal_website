@@ -15,7 +15,7 @@ are being made available for further research, which includes over 3 million tri
 labelled with transport mode and purpose respectively.
 url_pdf: https://link.springer.com/content/pdf/10.1007/s11116-022-10299-4.pdf
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Joseph Molloy
   - Alberto Castro
