@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Joseph Molloy
-  - Alberto Castro
+  - Alberto Castro-Fernández
   - Thomas Götschi
   - admin
   - Christopher Tchervenkov
