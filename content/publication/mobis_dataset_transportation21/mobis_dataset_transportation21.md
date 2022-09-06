@@ -1,27 +1,25 @@
 ---
-abstract: This article presents the MOBIS dataset and underlying survey methods used in its collection. The MOBIS study was a nation-wide randomised controlled trial (RCT) of transport pricing in Switzerland, utilising a combination of postal recruitment, online surveys, and GPS tracking. 21,571 persons completed the first online survey, and 3680 persons completed 8 weeks of GPS tracking. Many continued tracking for over a year after the study was completed. In the field experiment, participants participated through the use of a GPS tracking app, Catch-my-Day, which logged their daily travel on different transport modes and imputed the trip segments and modes. The experiment lasted 8 weeks, bookended by two online surveys. After the first 4-week control phase, participants were split into two different treatment groups and a continued control group. An analysis of the survey participation shows that the technology is capable of supporting such an experiment on both Android and iOS, the two main mobile platforms. Significant differences in the engagement and attrition were observed between iOS and Android participants over the 8-week period. Finally, the attrition rate did not vary between treatment groups. This paper also reports on the wealth of data that are being made available for further research, which includes over 3 million trip stages and activities, labelled with transport mode and purpose respectively.
-url_pdf: https://doi.org/10.1007/s11116-022-10299-4
+abstract: In Switzerland, strict measures as a response to the Covid-19 pandemic were imposed on March 16, 2020, before being gradually relaxed from May 11 onwards. We report the impact of these measures on mobility behaviour based on a GPS tracking panel of 1439 Swiss residents. The participants were also exposed to online questionnaires. The impact of both the lockdown and the relaxation of the measures up until the middle of August 2020 are presented. Reductions of around 60% in the average daily distance were observed, with decreases of over 90% for public transport. Cycling increased in mode share drastically. Behavioural shifts can even be observed in response to the announcement of the measures and relaxation, a week before they came in to place. Long-term implications for policy are discussed, in particular the increased preference for cycling as a result of the pandemic.
+url_pdf: https://doi.org/10.1016/j.tranpol.2021.01.009
 publication_types:
   - "2"
 authors:
   - Joseph Molloy
-  - Alberto Castro-Fernández
-  - Thomas Götschi
+  - Thomas Schatzmann
   - admin
   - Christopher Tchervenkov
-  - Uros Tomic
   - Beat Hintermann
   - Kay W. Axhausen
-summary: This article presents the MOBIS dataset and underlying survey methods used in its collection. The MOBIS study was a nation-wide randomised controlled trial (RCT) of transport pricing in Switzerland, utilising a combination of postal recruitment, online surveys, and GPS tracking. 21,571 persons completed the first online survey, and 3680 persons completed 8 weeks of GPS tracking. Many continued tracking for over a year after the study was completed. In the field experiment, participants participated through the use of a GPS tracking app, Catch-my-Day, which logged their daily travel on different transport modes and imputed the trip segments and modes. The experiment lasted 8 weeks, bookended by two online surveys. After the first 4-week control phase, participants were split into two different treatment groups and a continued control group. An analysis of the survey participation shows that the technology is capable of supporting such an experiment on both Android and iOS, the two main mobile platforms. Significant differences in the engagement and attrition were observed between iOS and Android participants over the 8-week period. Finally, the attrition rate did not vary between treatment groups. This paper also reports on the wealth of data that are being made available for further research, which includes over 3 million trip stages and activities, labelled with transport mode and purpose respectively.
+summary: In Switzerland, strict measures as a response to the Covid-19 pandemic were imposed on March 16, 2020, before being gradually relaxed from May 11 onwards. We report the impact of these measures on mobility behaviour based on a GPS tracking panel of 1439 Swiss residents. The participants were also exposed to online questionnaires. The impact of both the lockdown and the relaxation of the measures up until the middle of August 2020 are presented. Reductions of around 60% in the average daily distance were observed, with decreases of over 90% for public transport. Cycling increased in mode share drastically. Behavioural shifts can even be observed in response to the announcement of the measures and relaxation, a week before they came in to place. Long-term implications for policy are discussed, in particular the increased preference for cycling as a result of the pandemic.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*Transportation*"
+publication: "*Transport Policy*"
 featured: true
-date: 2022-06-21
+date: 2021-04-01
 url_slides: ""
-title: The MOBIS dataset: a large GPS dataset of mobility behaviour in Switzerland
+title: Observed impacts of the Covid-19 first wave on travel behaviour in Switzerland based on a large GPS panel
 tags: []
 image:
   preview_only: true
@@ -30,3 +28,4 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+
