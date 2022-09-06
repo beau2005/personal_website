@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: foo
 url_pdf: https://doi.org/10.1007/s11116-022-10299-4
 publication_types:
   - "2"
@@ -12,7 +12,7 @@ authors:
   - Uros Tomic
   - Beat Hintermann
   - Kay W. Axhausen
-summary: 
+summary: foo
 url_dataset: ""
 url_project: ""
 url_source: ""
