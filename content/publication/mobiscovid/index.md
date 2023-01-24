@@ -1,6 +1,17 @@
 ---
-abstract: We study the effect of the COVID-19 pandemic and the associated government measures on individual mobility choices in Switzerland. Our data is based on over 1,000 people for which we observe all trips during eight weeks before the pandemic and again for up to 6 months after its onset. We find an overall reduction of travel distances by 60 percent, followed by a gradual recovery during the subsequent reopening of the economy. Whereas driving distances have almost completely recovered, public transport remains under-used. The introduction of a requirement to wear a mask in public transport had no measurable impact on ridership. We study the heterogeneity of the individual travel response to the pandemic and find that it varies along socio-economic dimensions such as education and household size, with mobility tool ownership, and with personal values and lifestyles.
-url_pdf: https://edoc.unibas.ch/84537/1/20210916165615_61435b0fcf5df.pdf
+abstract: We study the effect of the COVID-19 pandemic and the associated government
+measures on individual mobility choices in Switzerland. Our data is based on over
+1,600 people for which we observe all trips during eight weeks before the pandemic
+and until May 2021. We find an overall reduction of travel distances by 60 percent,
+followed by a gradual recovery during the subsequent re-opening of the economy.
+Whereas driving distances have almost completely recovered, public transport re-
+mains under-used. The introduction of a requirement to wear a mask in public
+transport had no measurable impact on ridership. The individual travel response to
+the pandemic varies along socio-economic dimensions such as education and house-
+hold size, with mobility tool ownership, and with personal values and lifestyles. We
+find no evidence for a significant substitution of leisure travel to compensate for the
+reduction in work-related travel.
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S0965856423000022?token=0DC809210772BD989DC6F6D8C987CD107AF019633CA6A4FCEF4668FB7CF4234C31C9D60367732A8E452DB261C8762DB5&originRegion=eu-west-1&originCreation=20230124092752
 publication_types:
   - "2"
 authors:
@@ -10,12 +21,23 @@ authors:
   - Thomas Schatzmann
   - Christopher Tchervenkov
   - Kay W. Axhausen
-summary: We study the effect of the COVID-19 pandemic and the associated government measures on individual mobility choices in Switzerland. Our data is based on over 1,000 people for which we observe all trips during eight weeks before the pandemic and again for up to 6 months after its onset. We find an overall reduction of travel distances by 60 percent, followed by a gradual recovery during the subsequent reopening of the economy. Whereas driving distances have almost completely recovered, public transport remains under-used. The introduction of a requirement to wear a mask in public transport had no measurable impact on ridership. We study the heterogeneity of the individual travel response to the pandemic and find that it varies along socio-economic dimensions such as education and household size, with mobility tool ownership, and with personal values and lifestyles.
+summary: We study the effect of the COVID-19 pandemic and the associated government
+measures on individual mobility choices in Switzerland. Our data is based on over
+1,600 people for which we observe all trips during eight weeks before the pandemic
+and until May 2021. We find an overall reduction of travel distances by 60 percent,
+followed by a gradual recovery during the subsequent re-opening of the economy.
+Whereas driving distances have almost completely recovered, public transport re-
+mains under-used. The introduction of a requirement to wear a mask in public
+transport had no measurable impact on ridership. The individual travel response to
+the pandemic varies along socio-economic dimensions such as education and house-
+hold size, with mobility tool ownership, and with personal values and lifestyles. We
+find no evidence for a significant substitution of leisure travel to compensate for the
+reduction in work-related travel.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*WWZ Working Paper 2021/10*"
+publication: "*Transportation Research Part A: Policy and Practice*"
 featured: true
 date: 2021-09-30
 url_slides: ""
@@ -24,7 +46,7 @@ tags: []
 image:
   preview_only: true
   focal_point: Smart
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2023-01-17
 url_poster: ""
 url_code: ""
 ---
