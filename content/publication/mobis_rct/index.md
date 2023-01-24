@@ -33,7 +33,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*WWZ Working Paper 2021/11 Revise and resubmit at Review of Economic Studies*"
+publication: "*WWZ Working Paper 2021/11* (Revise and resubmit at Review of Economic Studies)"
 featured: true
 date: 2022-05-31
 url_slides: ""
