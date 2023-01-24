@@ -39,14 +39,14 @@ url_source: ""
 url_video: ""
 publication: "*Transportation Research Part A: Policy and Practice*"
 featured: true
-date: 2021-09-30
+date: 2023-01-23
 url_slides: ""
 title: The impact of COVID-19 on mobility choices in Switzerland
 tags: []
 image:
   preview_only: true
   focal_point: Smart
-publishDate: 2023-01-17
+publishDate: 2023-01-23
 url_poster: ""
 url_code: ""
 ---
