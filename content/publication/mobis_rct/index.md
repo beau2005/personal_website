@@ -33,16 +33,16 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "*WWZ Working Paper 2021/11*"
+publication: "*WWZ Working Paper 2021/11 Revise and resubmit at Review of Economic Studies*"
 featured: true
-date: 2021-09-30
+date: 2022-05-31
 url_slides: ""
 title: Pigovian Transport Pricing in Practice
 tags: []
 image:
   preview_only: true
   focal_point: Smart
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022-05-31
 url_poster: ""
 url_code: ""
 ---
