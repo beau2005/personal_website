@@ -1,8 +1,9 @@
 ---
 role: Economist
-# bio: My research interests include mobility, the environment, and development.
+# bio: My research interests include mobility, public health, the environment, and development.
 interests:
   - Mobility
+  - Public Health
   - Environment
   - Development
 social:
@@ -39,6 +40,6 @@ highlight_name: true
 title: Beaumont Schoeman
 email: ""
 ---
-I am an economist specialising in mobility, environmental, and development economics. I use state of the art experimental, econometric, and machine learning techniques to uncover causal effects of interventions.
+I am an economist specialising in mobility, health, environmental, and development economics. I use state of the art experimental, econometric, and machine learning techniques to uncover causal effects of interventions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/schoeman_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
