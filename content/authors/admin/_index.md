@@ -18,6 +18,8 @@ social:
 organizations:
   - name: University of Basel
     url: https://wwz.unibas.ch/en/persons/beaumont-schoeman-1/
+  - name: Swiss Tropical and Public Health Institute
+    url: https://www.swisstph.ch/en/staff/profile/people/beaumont-schoeman
 education:
   courses:
     - course: PhD in Economics
