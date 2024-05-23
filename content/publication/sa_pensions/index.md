@@ -21,7 +21,8 @@ tags: []
 image:
   focal_point: Smart
   preview_only: true
-  width: "600px"
+  width: 600px
+  height: 400px
 publishDate: 2022-11-30
 url_poster: ""
 url_code: ""
