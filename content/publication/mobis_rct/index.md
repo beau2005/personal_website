@@ -1,14 +1,16 @@
 ---
-abstract: Pigovian transport pricing was implemented in a large-scale field
-  experiment in urban areas of Switzerland. The pricing varied across time,
-  space and mode of transport. One third of the participants were given a
-  financial incentive to reduce their external costs of transport, whereas
-  others were provided information only or served as a control group. The
-  pricing treatment caused a significant reduction in the external costs of
-  transport. This reduction is a consequence of mode substitution and a shift of
-  departure times. The effect of providing information in the absence of pricing
-  was statistically significant only for subgroups of the sample.
-url_pdf: https://edoc.unibas.ch/84658/1/20210930154851_6155c043f3be9.pdf
+abstract: We implement Pigovian transport pricing in a field experiment in urban agglomer-
+ations of Switzerland over the course of 8 weeks. The pricing considers external costs
+from climate damages, health outcomes and congestion and varies across time, space
+and mode of transport. The treatment reduces the external costs of transport of the
+treated individuals by 4.5% in the short run. The main underlying mechanism is a shift
+away from driving towards other modes, such as public transport, walking and cycling.
+Providing information about external costs alone changes behavior of altruists, but not
+for the whole sample. We estimate the welfare improvements from such a policy to be
+around 140 US dollars per person and year, which is twice as large as the effects of a
+fuel tax that generates the same revenue.
+
+url_pdf: https://edoc.unibas.ch/96365/1/2021_11_Pigovian%20Transport%20Pricing%20in%20Practice_April%202024.pdf
 publication_types:
   - "3"
 authors:
@@ -20,29 +22,30 @@ authors:
   - Christopher Tchervenkov
   - Uros Tomic
   - Kay W. Axhausen
-summary: Pigovian transport pricing was implemented in a large-scale field
-  experiment in urban areas of Switzerland. The pricing varied across time,
-  space and mode of transport. One third of the participants were given a
-  financial incentive to reduce their external costs of transport, whereas
-  others were provided information only or served as a control group. The
-  pricing treatment caused a significant reduction in the external costs of
-  transport. This reduction is a consequence of mode substitution and a shift of
-  departure times. The effect of providing information in the absence of pricing
-  was statistically significant only for subgroups of the sample.
+summary: We implement Pigovian transport pricing in a field experiment in urban agglomer-
+ations of Switzerland over the course of 8 weeks. The pricing considers external costs
+from climate damages, health outcomes and congestion and varies across time, space
+and mode of transport. The treatment reduces the external costs of transport of the
+treated individuals by 4.5% in the short run. The main underlying mechanism is a shift
+away from driving towards other modes, such as public transport, walking and cycling.
+Providing information about external costs alone changes behavior of altruists, but not
+for the whole sample. We estimate the welfare improvements from such a policy to be
+around 140 US dollars per person and year, which is twice as large as the effects of a
+fuel tax that generates the same revenue.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 publication: "*WWZ Working Paper 2021/11* (R&R at *Review of Economic Studies*)"
 featured: true
-date: 2022-05-31
+date: 2024-05-09
 url_slides: ""
 title: Pigovian Transport Pricing in Practice
 tags: []
 image:
   preview_only: true
   focal_point: Smart
-publishDate: 2022-05-31
+publishDate: 2024-05-09
 url_poster: ""
 url_code: ""
 ---
