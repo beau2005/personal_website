@@ -99,7 +99,7 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
@@ -113,7 +113,7 @@ extensions:
   address:
     street: Peter Merian-Weg 6
     city: Basel
-    postcode: '4002'
+    postcode: '4001'
     country: Switzerland
     country_code: CH
   coordinates:
