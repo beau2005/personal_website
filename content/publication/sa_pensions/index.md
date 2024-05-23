@@ -16,7 +16,7 @@ publication: ""
 featured: true
 date: 2022-11-30
 url_slides: ""
-title: Income shocks and Intra-household Bargaining:Theory and Evidence from South Africa
+title: Income shocks and Intra-household Bargaining: Theory and Evidence from South Africa
 tags: []
 image:
   preview_only: true
