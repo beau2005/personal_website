@@ -10,7 +10,7 @@ for the whole sample. We estimate the welfare improvements from such a policy to
 around 140 US dollars per person and year, which is twice as large as the effects of a
 fuel tax that generates the same revenue.
 
-url_pdf: https://edoc.unibas.ch/96365/1/2021_11_Pigovian%20Transport%20Pricing%20in%20Practice_April%202024.pdf
+url_pdf: https://edoc.unibas.ch/96365/
 publication_types:
   - "3"
 authors:
