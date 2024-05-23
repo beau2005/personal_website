@@ -48,8 +48,8 @@ imaging:
   resampleFilter: lanczos
   quality: 75
   anchor: smart
-  height: 400px
-  width: 600px
+  height: 400
+  width: 600
 timeout: 600000
 taxonomies:
   tag: tags
