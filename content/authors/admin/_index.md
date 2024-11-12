@@ -3,8 +3,8 @@ role: Economist
 # bio: My research interests include mobility, public health, the environment, and development.
 interests:
   - Mobility
+  - Sustainability
   - Public Health
-  - Environment
   - Development
 social:
   - icon: envelope
@@ -19,8 +19,9 @@ social:
 organizations:
   - name: University of Basel
     url: https://wwz.unibas.ch/en/persons/beaumont-schoeman-1/
-  - name: Swiss Tropical and Public Health Institute
-    url: https://www.swisstph.ch/en/staff/profile/people/beaumont-schoeman
+  - name: University of Hamburg
+    url: https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/drupp.html
+  
 education:
   courses:
     - course: PhD in Economics
@@ -40,6 +41,8 @@ highlight_name: true
 title: Beaumont Schoeman
 email: ""
 ---
-I am an economist specialising in mobility, health, environmental, and development economics. I use state of the art experimental, econometric, and machine learning techniques to uncover causal effects of interventions.
+I am an economist specialising in mobility, sustainability, and development economics. I use state of the art experimental, econometric, and machine learning techniques to uncover causal effects of interventions.
+
+I will be joining the Sustainability Economics Group at the University of Hamburg in 2025 working on the [MEEP Project](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/drupp/forschung/meep.html). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/schoeman_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
